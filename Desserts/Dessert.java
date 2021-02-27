@@ -1,3 +1,6 @@
+/**This parent class was written by my professor. It is extended by the other classes
+I wrote. */
+
 /** Base class for Dessert types. */
 public abstract class Dessert {
 
